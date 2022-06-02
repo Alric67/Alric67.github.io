@@ -1,0 +1,136 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.content {
+    margin: 0 auto;
+    padding: 0 2em;
+    max-width: 1170px;
+    line-height: 1.6em;
+}
+
+.content-p {
+    margin: 0 auto;
+    padding: 0 2em;
+    max-width: 1577px;
+    line-height: 1.6em;
+}
+
+.navbar {
+	height: 82px;
+}
+
+.logo {
+	padding-top: 26px;
+}
+
+.header-banner {
+	height: 458px;
+	background-image: url(../img/Image.png);
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+
+.header-banner-welcom {
+	text-align: center;
+	padding-top: 55px;
+}
+
+.header-banner-welcom h1 {
+	font-size: 36px;
+	color: #19c2b0;
+	font-weight: 900;
+}
+
+.header-banner-welcom p {
+	font-size: 13px;
+}
+
+.skil {
+	margin-top: 86px;
+}
+
+.skil-items {
+	text-align: center;
+}
+
+.skil-items h3 {
+	margin: 50px 0 35px 0;
+}
+
+.services {
+	padding-top: 278px;
+	margin-bottom: 105px;
+}
+
+.services h2 {
+	text-align: center;
+}
+
+.services-box {
+	padding-top: 153px;
+}
+
+.right-block-line {
+	height: 435px;
+	width: 100px;
+	background-color: #344452;
+}
+
+.right-block {
+	display: flex;
+}
+.right-block img {
+	display: block;
+	height: 335px;
+	width: 300px;
+	margin-top: 52px;
+	margin-right: -50px;
+	z-index: 1;
+}
+
+.left-block-box {
+	display: flex;
+	margin-bottom: 50px;
+}
+
+.left-block-logo {
+	margin-right: 51px;
+}
+
+.left-block-info h3 {
+	font-size: 14px;
+	margin-bottom: 15px;
+}
+
+.left-block-info p {
+	font-size: 11px;
+}
+
+.portfolio {
+	background-color: #fafafa;
+	padding-top: 305px;
+}
+
+.portfolio-items {
+	margin-right: 50px;
+	height: 500px;
+	width: 500px;
+}
+
+.portfolio-items h3, p{
+	margin-left: 30px;
+}
+
+.portfolio-items h3 {
+	font-size: 13px;
+}
+
+.portfolio-items p {
+	font-size: 10px;
+}
+
+.portfolio-wrapper {
+	display: flex;
+}
